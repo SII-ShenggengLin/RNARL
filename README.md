@@ -233,3 +233,7 @@ example_data/
 ## Web Interface
 
 To enhance accessibility and promote the use of the RNARL framework, a user-friendly web interface was developed and hosted on [Google Colab](https://colab.research.google.com/drive/1Z_t_Lt9CjqA0aygoNcdRzrThF1MOGBRb). This interface is designed to require no environment setup or programming knowledge, enabling users to readily input protein sequences and obtain generated and optimized RNA sequences. The platform supports both the optimization of RNA sequences corresponding to a single protein and the high-throughput optimization for multiple proteins simultaneously through the upload of CSV files. Additionally, users can select different species or RNA types to perform targeted optimization based on their specific needs.
+
+## License
+
+License: This source code is released under the MIT License.
