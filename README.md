@@ -249,8 +249,7 @@ If you use this work in your research, please cite:
 }
 ```
 
-## License
-[MIT License](LICENSE)
+
 ```
 
 This README includes:
