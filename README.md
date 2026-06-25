@@ -1,5 +1,5 @@
 
-# RNARL: RNA Design via Reinforcement Learning
+# RNARL: reinforcement learning-driven unified generative framework for multi-objective RNA codon design
 
 
 <div align="center">
